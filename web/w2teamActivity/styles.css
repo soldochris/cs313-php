@@ -15,7 +15,7 @@
   font-weight: bold;
 }
 
-#clickmeBtn, #changeColorBtn, #changeVisibilityBtn{
+#clickmeBtn, #changeColorBtn, #changeVisibilityBtn, #changeVisibilityBtn{
   margin: .5rem auto;
   display: block;
 }

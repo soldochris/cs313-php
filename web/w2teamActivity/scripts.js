@@ -31,4 +31,5 @@ function changeColor(){
 $("#changeVisibilityBtn").click(changeVisibility);
 function changeVisibility(){
   $("#thirdDiv").fadeToggle("slow", "linear");
+  console.log("it works");
 }
